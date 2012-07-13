@@ -39,5 +39,7 @@ Module options (auxiliary/admin/scada/simatic_s7_300_command):
 I'm currently in the process of updating the repo and adding other modules. Please test
 on different S7-300 models and let me know which ones are supported so I can add a list. 
 
--Dillon 
-dillon.beresford@gmail.com
+-Dillon
+
+Please report any issues to dillon.beresford@gmail.com
+
